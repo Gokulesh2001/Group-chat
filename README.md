@@ -1,2 +1,2 @@
 # Group-chat
-You can chat with people who are all available in the group.
+You can chat with peoples who are all available in the group.
