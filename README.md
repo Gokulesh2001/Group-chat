@@ -33,7 +33,7 @@ You can chat with peoples who are all available in the group.
 # Starting Apache And MySQL in XAMPP:
 The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
 
-![alt text](https://https://github.com/Gokulesh2001/Group-chat/edit/master/xamppins.png)
+![image not found](https://https://github.com/Gokulesh2001/Group-chat/edit/master/xamppins.png?raw=true)
 
 
 
